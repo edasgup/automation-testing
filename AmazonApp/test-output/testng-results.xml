@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T14:36:58 IST" name="Default suite" finished-at="2022-07-04T14:37:32 IST" duration-ms="34662">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T14:36:58 IST" name="Default test" finished-at="2022-07-04T14:37:32 IST" duration-ms="34662">
+      <class name="com.amazon.qa.Tests.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:36:58 IST" name="setup" finished-at="2022-07-04T14:37:07 IST" duration-ms="8993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateTitle()[pri:1, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:07 IST" name="ValidateTitle" finished-at="2022-07-04T14:37:07 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:07 IST" name="Teardown" finished-at="2022-07-04T14:37:08 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:08 IST" name="setup" finished-at="2022-07-04T14:37:15 IST" duration-ms="6626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HighestPricedPhone()[pri:2, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:15 IST" name="HighestPricedPhone" finished-at="2022-07-04T14:37:16 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HighestPricedPhone -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:16 IST" name="Teardown" finished-at="2022-07-04T14:37:16 IST" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:16 IST" name="setup" finished-at="2022-07-04T14:37:23 IST" duration-ms="6953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GetTitle()[pri:3, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:23 IST" name="GetTitle" finished-at="2022-07-04T14:37:24 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:24 IST" name="Teardown" finished-at="2022-07-04T14:37:25 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:25 IST" name="setup" finished-at="2022-07-04T14:37:31 IST" duration-ms="6795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Teardown()[pri:4, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:31 IST" name="Teardown" finished-at="2022-07-04T14:37:32 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.amazon.qa.Tests.LandingPageTest@437da279]" started-at="2022-07-04T14:37:32 IST" name="Teardown" finished-at="2022-07-04T14:37:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.amazon.qa.Tests.LandingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
